@@ -1,0 +1,1 @@
+Bienvenidos al curso de Python, impartido por el Profesor Alejandro Cesar Rico Martinez. Jefe de carrera de Ingenieria en Sistemas Computacionales del ITSSLP,C. En este curso aprenderemos un poco del lenguaje de programación Python como se utiliza, sus funciones, etc
